@@ -1,8 +1,9 @@
+import Sum from "./components/Sum";
 
 function App() {
   return (
    <>
-   <h2>olá, mundo!</h2>
+    <Sum />
    </>
   );
 }
